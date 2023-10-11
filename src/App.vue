@@ -119,7 +119,7 @@ h4 {
 }
 
 .at-card__body {
-  background-color: #444;
+  background-color: #555;
 }
 
 .at-rate {
